@@ -1,4 +1,4 @@
-<?php $pageTitle = 'Ubah'; require __DIR__ . '/../layouts/header.php'; ?>
+<?php $pageTitle = 'Ubah'; require_once __DIR__ . '/../layouts/header.php'; ?>
 <div class="col-lg-6 m-auto">
   <form method="post"><br><br><div class="card">
     <div class="card-header bg-warning"><h1 class="text-white text-center"> Update Lecturer </h1></div><br>
@@ -17,4 +17,4 @@
         <a class="btn btn-info" href="?page=lecturers"> Cancel </a><br>
   </div></form>
 </div>
-<?php require __DIR__ . '/../views/layouts/footer.php'; ?>
+<?php require_once __DIR__ . '/../layouts/footer.php'; ?>
