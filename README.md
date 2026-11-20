@@ -133,7 +133,6 @@ Tampilan dasar halaman Lecturers dipertahankan mengikuti starter project. Penamb
 
 **3. Form ubah Lecturer**
 
-![Form ubah Lecturer](dokumentasi/lecturer-edit.png)
 
 **4. Hasil pengelolaan data Lecturers**
 
